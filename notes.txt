@@ -8,3 +8,4 @@ git log
 Test 123
 
 git fitch
+test merge abort
